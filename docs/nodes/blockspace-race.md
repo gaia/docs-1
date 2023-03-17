@@ -142,6 +142,7 @@ We will be listing RPC endpoints
 provided by the community here.
 
 * [https://rpc-blockspacerace.pops.one/](https://rpc-blockspacerace.pops.one/)
+* [http://rpc-blockspacerace.freshstaking.com:52657/] (http://rpc-blockspacerace.freshstaking.com:52657/)
 
 #### gRPC Endpoints
 
